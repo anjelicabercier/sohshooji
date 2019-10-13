@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeghogiuc.zjwang.info/sitemap.xml
